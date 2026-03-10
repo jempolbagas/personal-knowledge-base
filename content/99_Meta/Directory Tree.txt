@@ -1,0 +1,25 @@
+📁 Knowledge Hub — University Vault
+Path: /mnt/Life_Hub/10_Knowledge OS/20_University/
+Built as: Obsidian Vault
+
+20_University/
+├── 00_Daily_Notes/
+│   └── 2026-02-24.md
+├── 10_Courses/
+│   ├── Artificial_Intelligence/                       ← Course syllabus, RPS, Course Notes, Topic notes, etc
+│   ├── Computer_Networks/
+│   ├── Discrete_Mathematics_I/
+│   ├── Software_Engineering/
+│   └── Web_Programming/
+├── 20_Zettelkasten/                                ← Atomic/concept notes
+├── 30_Resources/                                   ← Raw RPS PDFs
+├── 99_Meta/
+└── Templates/                                      ← (for note templates)
+
+
+
+
+
+
+
+
