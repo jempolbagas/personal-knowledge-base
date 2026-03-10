@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.trash
+00_Daily_Notes
+30_Resources
+99_Meta/Templates/
