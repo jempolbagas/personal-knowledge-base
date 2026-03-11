@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "bagas-uni-hub.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian", "99_Meta/Templates", "00_Daily_Notes", "30_Resources", ".trash"],
+    ignorePatterns: ["private", "templates", ".obsidian", "99_Meta/Templates", "00_Daily_Notes", ".trash"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
