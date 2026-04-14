@@ -15,6 +15,7 @@ tags:
   - injective
   - surjective
   - bijective
+status: 🌿 incubating
 created: 2026-03-06
 ---
 

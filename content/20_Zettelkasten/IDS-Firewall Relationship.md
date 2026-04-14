@@ -11,6 +11,8 @@ tags:
   - defense-in-depth
   - layered-security
   - computer-networks
+  - "#status/evergreen"
+status: 🌿 incubating
 created: 2026-03-04
 ---
 

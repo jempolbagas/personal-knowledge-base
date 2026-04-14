@@ -13,6 +13,7 @@ tags:
   - addressing
   - layer-3
   - computer-networks
+status: 🌿 incubating
 created: 2026-03-05
 ---
 
@@ -73,7 +74,7 @@ Ketika PC karyawan A (`192.168.10.50`) ingin mengirim data ke PC karyawan B (`19
 
 ## Sumber
 
-- Berasal dari: [[Pengenalan Jaringan Komputer — CN — 1]], [[Network Operating System — CN — 2]] (IPv4 configuration and subnetting)
+- Berasal dari: [[CN - 1 - Pengenalan Jaringan Komputer]], [[CN - 2 - Network Operating System]] (IPv4 configuration and subnetting)
 - Referensi: Forouzan, B.A. — *Data Communications and Networking*, 5th Ed. — Chapter on Network Layer / IPv4 Addresses
 - Eksternal: [Cloudflare — What is an IP Address?](https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/)
 - Eksternal: [Wikipedia — IP Address](https://en.wikipedia.org/wiki/IP_address)

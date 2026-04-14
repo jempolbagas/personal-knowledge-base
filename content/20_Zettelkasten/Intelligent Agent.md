@@ -12,6 +12,7 @@ tags:
   - intelligent-agent
   - rational-agent
   - agent-architecture
+status: 🌳 evergreen
 created: 2026-03-04
 ---
 
@@ -109,7 +110,7 @@ Initially, this robot might just be a **simple reflex agent** (The moment it bum
 
 ## Sources
 
-- Originated from: [[Konsep Kecerdasan Buatan - AI - 2]], [[Intelligent Agent - AI - 3]]
+- Originated from: [[AI - 1 - Konsep Kecerdasan Buatan]], [[AI - 2 - Intelligent Agent]]
 - Reference: Russell, S. & Norvig, P. — *Artificial Intelligence: A Modern Approach*, 3rd Ed. — Chapter 2: Intelligent Agents
 - Reference: Suyanto — *Artificial Intelligence: Searching, Reasoning, Planning and Learning*, 2007
 - External: [IBM — AI Agents](https://www.ibm.com/think/topics/ai-agents)

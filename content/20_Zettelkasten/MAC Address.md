@@ -14,6 +14,7 @@ tags:
   - data-link
   - hardware-address
   - computer-networks
+status: 🌳 evergreen
 created: 2026-03-05
 ---
 
@@ -77,7 +78,7 @@ Laptop A (MAC: `AA:BB:CC:11:22:33`, IP: `192.168.1.5`) ingin mengirim data ke Pr
 
 ## Sumber
 
-- Berasal dari: [[Pengenalan Jaringan Komputer — CN — 1]] (intermediary devices, switch), [[Network Operating System — CN — 2]] (network topology)
+- Berasal dari: [[CN - 1 - Pengenalan Jaringan Komputer]] (intermediary devices, switch), [[CN - 2 - Network Operating System]] (network topology)
 - Referensi: Forouzan, B.A. — *Data Communications and Networking*, 5th Ed. — Chapter on Data Link Layer
 - Eksternal: [Wikipedia — MAC Address](https://en.wikipedia.org/wiki/MAC_address)
 - Eksternal: [GeeksForGeeks — MAC Address in Computer Networks](https://www.geeksforgeeks.org/mac-address-in-computer-networks/)

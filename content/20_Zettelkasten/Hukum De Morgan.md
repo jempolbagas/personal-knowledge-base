@@ -14,6 +14,7 @@ tags:
   - sets
   - de-morgan
   - equivalence
+status: 🌿 incubating
 created: 2026-03-06
 ---
 

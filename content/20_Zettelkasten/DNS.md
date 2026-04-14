@@ -13,6 +13,7 @@ tags:
   - name-resolution
   - application-layer
   - computer-networks
+status: 🌿 incubating
 created: 2026-03-05
 ---
 
@@ -84,7 +85,7 @@ Kamu membuka browser dan mengetik `uns.ac.id`:
 
 ## Sumber
 
-- Berasal dari: [[Pengenalan Jaringan Komputer — CN — 1]] (implied: internet infrastructure), [[TCP-IP Model]] (Application Layer protocols)
+- Berasal dari: [[CN - 1 - Pengenalan Jaringan Komputer]] (implied: internet infrastructure), [[TCP-IP Model]] (Application Layer protocols)
 - Referensi: Forouzan, B.A. — *Data Communications and Networking*, 5th Ed. — Chapter on Application Layer / DNS
 - Eksternal: [Cloudflare — What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - Eksternal: [Wikipedia — Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)

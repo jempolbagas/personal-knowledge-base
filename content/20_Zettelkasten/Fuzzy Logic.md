@@ -13,6 +13,7 @@ tags:
   - soft-computing
   - reasoning
   - uncertainty
+status: 🌿 incubating
 created: 2026-03-06
 ---
 
@@ -85,7 +86,7 @@ Hasilnya bukan "kipas mati" atau "kipas maksimum" — melainkan *nilai proporsio
 
 ## Sumber
 
-- Berasal dari: [[Konsep Kecerdasan Buatan - AI - 2]] (Week 10–12 RPS: "Propositional Logic, First Order Logic, Fuzzy Logic")
+- Berasal dari: [[AI - 1 - Konsep Kecerdasan Buatan]] (Week 10–12 RPS: "Propositional Logic, First Order Logic, Fuzzy Logic")
 - Berasal dari: [[RPS-AI]] (Bahan Kajian — Reasoning: fuzzy logic)
 - Referensi: Russell, S. & Norvig, P. — *Artificial Intelligence: A Modern Approach*, 3rd Ed.
 - Referensi: Suyanto — *Artificial Intelligence: Searching, Reasoning, Planning and Learning*, 2007

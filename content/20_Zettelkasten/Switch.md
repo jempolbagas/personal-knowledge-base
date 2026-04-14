@@ -14,6 +14,7 @@ tags:
   - MAC
   - LAN
   - computer-networks
+status: 🌿 incubating
 created: 2026-03-04
 ---
 

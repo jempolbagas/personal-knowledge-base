@@ -12,6 +12,8 @@ tags:
   - logic
   - proposition
   - formal-reasoning
+  - "#status/incubating"
+status: 🌿 incubating
 created: 2026-03-06
 ---
 

@@ -13,6 +13,7 @@ tags:
   - predicates
   - quantifiers
   - formal-reasoning
+status: 🌿 incubating
 created: 2026-03-06
 ---
 

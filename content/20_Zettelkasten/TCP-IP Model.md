@@ -14,6 +14,7 @@ tags:
   - internet
   - reference-model
   - computer-networks
+status: 🌿 incubating
 created: 2026-03-04
 ---
 
@@ -84,7 +85,7 @@ Di server Google, proses terbalik terjadi: sinyal → frame → packet → segme
 
 ## Sumber
 
-- Berasal dari: [[Pengenalan Jaringan Komputer — CN — 1]] (Week 3–4 RPS: "Protocol suite, standard organization, reference model")
+- Berasal dari: [[CN - 1 - Pengenalan Jaringan Komputer]] (Week 3–4 RPS: "Protocol suite, standard organization, reference model")
 - Referensi: Forouzan, B.A. — *Data Communications and Networking*, 5th Ed. — Chapter on TCP/IP Protocol Suite
 - Referensi: Tanenbaum, A.S. — *Computer Networks*, 4th Ed. — Chapter on Internet Protocols
 - Eksternal: [Wikipedia — Internet Protocol Suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)

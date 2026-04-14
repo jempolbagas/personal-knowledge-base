@@ -13,6 +13,8 @@ tags:
   - reference-model
   - layered-architecture
   - computer-networks
+  - "#status/evergreen"
+status: 🌿 incubating
 created: 2026-03-04
 ---
 
@@ -86,7 +88,7 @@ Di sisi server UNS, proses terbalik terjadi: sinyal → frame → packet → seg
 
 ## Sumber
 
-- Berasal dari: [[Pengenalan Jaringan Komputer — CN — 1]] (Week 3–4 RPS: "reference model")
+- Berasal dari: [[CN - 1 - Pengenalan Jaringan Komputer]] (Week 3–4 RPS: "reference model")
 - Referensi: Forouzan, B.A. — *Data Communications and Networking*, 5th Ed. — Chapter on OSI Model
 - Referensi: Tanenbaum, A.S. — *Computer Networks*, 4th Ed.
 - Eksternal: [Cloudflare — What is the OSI Model?](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)

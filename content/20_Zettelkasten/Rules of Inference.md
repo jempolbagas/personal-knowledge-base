@@ -14,6 +14,7 @@ tags:
   - inference
   - proofs
   - formal-reasoning
+status: 🌳 evergreen
 created: 2026-03-06
 ---
 
