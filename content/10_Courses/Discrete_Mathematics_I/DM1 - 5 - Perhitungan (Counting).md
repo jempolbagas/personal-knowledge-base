@@ -15,7 +15,7 @@ tags:
   - college
   - lecture-note
 status: 🌿 incubating
-created: 2026-04-07
+created: 2026-04-14
 ---
 
 # Perhitungan (Counting)

@@ -9,7 +9,7 @@ topic:
 semester: 2
 tags:
 status: 🌿 incubating
-created: 2026-04-02
+created: 2026-04-07
 ---
  
 # Teknik Induksi & Rekursi

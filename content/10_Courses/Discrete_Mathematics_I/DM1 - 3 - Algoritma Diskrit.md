@@ -15,7 +15,7 @@ tags:
   - college
   - lecture-note
 status: 🌳 evergreen
-created: 2026-04-02
+created: 2026-03-31
 ---
 
 # Algoritma Diskrit dan Analisis Waktu Komputasi
